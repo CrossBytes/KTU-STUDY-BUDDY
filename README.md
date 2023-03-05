@@ -1,6 +1,8 @@
 # KTU-STUDY-BUDDY
 *A one stop educational hub for KTU scholars !*
 
+[Video Demo](https://drive.google.com/file/d/12zs2EItAE8EZoGGazJY5hPQIxK-KoAmI/view?usp=drivesdk)
+
 **The Team:** 
 - Aiswarya Satheesh
 - Ajmi Nasar
