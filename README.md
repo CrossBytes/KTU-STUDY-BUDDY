@@ -1,5 +1,6 @@
 # KTU-STUDY-BUDDY
 *A one stop educational hub for KTU scholars !*
+![KTUstudybuddy](https://user-images.githubusercontent.com/126707783/222959789-1ed73a8a-1b2a-4a2e-9e40-d1a9644e804c.jpeg)
 
 [Video Demo](https://drive.google.com/file/d/12zs2EItAE8EZoGGazJY5hPQIxK-KoAmI/view?usp=drivesdk)
 
